@@ -1,10 +1,16 @@
 # Monitoramento de Qualidade da Água para Criadouros de Peixes
+## Colaboradores
 
+- Eric Darakjian- RM: 557082
+- Luciano Meriato - RM: 554546
+- Pietro Vitor Pezzente - RM: 557283
+
+## Descrição
 Este projeto visa monitorar a qualidade da água em criadouros de peixes, auxiliando na manutenção de um ambiente saudável para a reprodução de espécies. Isso contribui para a sustentabilidade e ajuda a evitar a extinção de peixes.
 
 ## Componentes Utilizados
 
-- 15 fios de ligação
+- 15 jumper cables
 - 2 resistores de 220 ohms
 - 1 resistor de 1K ohm
 - 1 LED vermelho
@@ -101,4 +107,9 @@ void loop() {
 - O LED vermelho e o buzzer são ativados se qualquer um dos valores estiver fora dos níveis aceitáveis.
 - Se ambos os valores estiverem fora dos níveis aceitáveis, o LED vermelho e o buzzer permanecem ativados.
 
+## Imagem de exemplo
 
+![image](https://github.com/Pic0777/GS---EDGE---1ESPK/assets/162361580/0921271c-c700-4a72-80dd-a10ebefef510)
+
+## Conclusão
+Este projeto demonstra como utilizar sensores com Arduino para monitorar a qualidade da água, fornecendo alertas visuais e sonoros quando os parâmetros estão fora dos níveis seguros. Esta solução pode ser aplicada em criadouros de peixes para garantir um ambiente saudável e sustentável para a reprodução das espécies.
