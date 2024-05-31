@@ -111,5 +111,7 @@ void loop() {
 
 ![image](https://github.com/Pic0777/GS---EDGE---1ESPK/assets/162361580/0921271c-c700-4a72-80dd-a10ebefef510)
 
+## Link tinkercad
+Você pode acessar o nosso projeto aqui: https://www.tinkercad.com/things/6j6LIJ1YGRG-gs-edge/editel?returnTo=%2Fthings%2F6j6LIJ1YGRG-gs-edge&sharecode=FSd1fcVYWLBnm3HndtFGXM0WNYHO57VkLeJzekYU4vA
 ## Conclusão
 Este projeto demonstra como utilizar sensores com Arduino para monitorar a qualidade da água, fornecendo alertas visuais e sonoros quando os parâmetros estão fora dos níveis seguros. Esta solução pode ser aplicada em criadouros de peixes para garantir um ambiente saudável e sustentável para a reprodução das espécies.
