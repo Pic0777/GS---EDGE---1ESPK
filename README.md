@@ -5,8 +5,8 @@
 - Luciano Meriato - RM: 554546
 - Pietro Vitor Pezzente - RM: 557283
 
-## Descrição
-Este projeto visa monitorar a qualidade da água em criadouros de peixes, auxiliando na manutenção de um ambiente saudável para a reprodução de espécies. Isso contribui para a sustentabilidade e ajuda a evitar a extinção de peixes.
+## Descrição do problema e solução
+Observamos que um dos maiores problemas que vem ocorrendo no oceano é a extinção de várias espécies de peixes devido a poluição, pesca predatória, mudanças climáticas e etc. Foram criados diversos projetos de criadouros sustentáveis para salvar essas espécies ameaçadas com a reprodução em cativeiro, porém os cativeiros precisam estar em plenas condições para que os peixes sobrevivam e possam se reproduzir. Nosso projeto visa monitorar a qualidade da água em criadouros de peixes, auxiliando na manutenção de um ambiente saudável para a reprodução de espécies. Utilizamos o arduíno para fazer a leitura do ph da água e da concentração de gases poluentes. Isso contribui para a sustentabilidade e ajuda a evitar a extinção de peixes.
 
 ## Componentes Utilizados
 
